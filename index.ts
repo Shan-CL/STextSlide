@@ -1,4 +1,4 @@
-import TextSlide from './TextSlide'
+import STextSlide from './TextSlide'
 
-export { TextSlide }
-export default TextSlide
+export { STextSlide }
+export default STextSlide
