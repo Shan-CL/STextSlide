@@ -1,0 +1,22 @@
+{
+  "name": "stextslide",
+  "version": "1.0.0",
+  "description": "Easy text slide for Vue",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shan-CL/TextSlide.git"
+  },
+  "keywords": [
+    "text-slide"
+  ],
+  "author": "Sebastian Maldonado (CL)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shan-CL/TextSlide/issues"
+  },
+  "homepage": "https://github.com/Shan-CL/TextSlide#readme"
+}
