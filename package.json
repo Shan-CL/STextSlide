@@ -1,6 +1,6 @@
 {
   "name": "stextslide",
-  "version": "1.1.0",
+  "version": "1.1.5",
   "description": "Easy text slide for Vue",
   "main": "index.ts",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shan-CL/VueTextSlide.git"
+    "url": "git+https://github.com/Shan-CL/STextSlide.git"
   },
   "keywords": [
-    "text-slide"
+    "vue", "component", "text", "slide", "text-slide"
   ],
   "author": "Sebastian Maldonado (CL)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Shan-CL/VueTextSlide/issues"
+    "url": "https://github.com/Shan-CL/STextSlide/issues"
   },
-  "homepage": "https://github.com/Shan-CL/VueTextSlide#readme"
+  "homepage": "https://github.com/Shan-CL/STextSlide#readme"
 }
