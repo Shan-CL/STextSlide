@@ -16,7 +16,7 @@ Install STextSlide with npm
 ## Usage/Examples
 
 ```html
-<StextSlide :words="words" :time="3000">
+<STextSlide :words="words" :time="3000">
 ```
 ```javascript
 import { STextSlide } from 'stextslide'
